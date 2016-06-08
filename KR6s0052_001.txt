@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:05.678446
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 府君存惠傳
 #+PROPERTY: CBETA_ID T85n2860
 #+PROPERTY: ID KR6s0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2860
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0052_T_000-1320a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0052_T_001-1320a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2860¶
-
- 府君存惠傳¶
+No. 2860¶
+府君存惠傳¶
 ¶
 
 府君諱存惠。字察遠。號懷氣義。夙抱溫案文¶
